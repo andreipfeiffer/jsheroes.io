@@ -74,7 +74,7 @@ export default [
     firstName: 'Andrei',
     reference: 'him',
     position: 'Code Designer',
-    company: '',
+    company: 'Smilecloud',
     img: 'andrei-pfeiffer.png',
     twitter: 'https://twitter.com/pfeiffer_andrei',
     description: `Eclectic code designer, developing websites and web apps since 2000. Currently working as an UI Engineer, his everyday battles revolve around Clean Code Design, User & Developer Experience and fighting software entropy. He’s part of the core team at the revo.js conference and an organizer of tim.js since 2013, the local JavaScript meetup.`,
